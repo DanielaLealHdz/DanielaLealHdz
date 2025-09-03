@@ -14,7 +14,7 @@ I enjoy transforming data into insights through **Python, R, SQL, Power BI, and 
 
 🌱 Currently learning more about:  
 - Data visualization & storytelling.
-- Building interactive dashboards (Power BI, Streamlit, Dash).  
+- Building interactive dashboards (Power BI, Streamlit).  
 - Applied Machine Learning projects.  
 
 🤝 I’m open to collaborations on **data-driven projects, sports analytics, or web apps**.  
